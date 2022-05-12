@@ -1,0 +1,20 @@
+body{
+    background : #f6f5f7;
+    max-width: 1300px; /*pour limiter la largeur*/
+    min-height : 100vh;
+    margin: auto;
+    color: #3b4754;
+    margin : auto;
+}
+
+a{ /*pour supprimer couleur bleue des liens*/
+    text-decoration:none; 
+    color: #3b4754;
+}
+
+a:hover{
+    color: red ;
+}
+.test{
+    background-color: antiquewhite;
+}
